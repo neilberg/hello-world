@@ -1,2 +1,3 @@
 # hello-world
-testing how to make a repository
+This is me testing how to commit a change.
+I wear glasses.
